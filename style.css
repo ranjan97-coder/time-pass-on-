@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:rgb(15, 186, 209);
+}
+
+header {
+    background-color: #333;
+    color: #ca1212;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    text-align: center;
+    display: inline;
+    margin: 0 10px;
+}
+
+nav i u strong mark {
+    color: #0e2d85;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #ad0689;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+a:link,a:visited
+{
+    background-color:rgb(11, 128, 102);
+    color: #d30b0b;
+    text-decoration: none;
+    padding: auto;
+    text-align: center;
+    display: inline-block;
+}
